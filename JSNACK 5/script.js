@@ -5,6 +5,9 @@ document.getElementById("button").addEventListener("click", function(){
   var num1 = document.getElementById("num1").value;
   var num1 = document.getElementById("num2").value;
 
-  if (document.getElementById("somma") = 1) {console.log("scelto 1")}
+  if (document.getElementById("opt").value == 1) {console.log("scelto 1")}
+  else if (document.getElementById("opt").value == 2) {console.log("scelto 2")
+
+  }
 
 });
